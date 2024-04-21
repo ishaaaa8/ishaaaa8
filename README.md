@@ -20,7 +20,7 @@
 
 # 📊 GitHub Stats:
 <!--<img align="right" width="300" src="https://user-images.githubusercontent.com/94922914/233508815-a208793f-7564-4ee8-9a01-1c487e22ccef.gif">-->
-<img  src="https://streak-stats.demolab.com?user=NebulaTris&theme=aura&hide_border=true&card_width=550"/>
-<img  src="https://github-readme-stats.vercel.app/api?username=ishaaaa8&theme=aura&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/></br>
+<img src="https://streak-stats.demolab.com?user=ishaaaa8&theme=aura&hide_border=true&card_width=550"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ishaaaa8&theme=aura&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/></br>
 <!--<img width="495" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaaaa8&hide_progress=true&langs_count=10&theme=aura&hide_border=true"/>->
 <!--<img width="400" src="https://api.githubtrends.io/user/svg/ishaaaa8/langs?time_range=one_year&theme=dark"/>&ensp; <img width="400" src="https://api.githubtrends.io/user/svg/ishaaaa8/repos?time_range=one_year&theme=dark"/>-->
