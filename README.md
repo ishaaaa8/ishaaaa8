@@ -7,7 +7,7 @@
 <!--<img align="right" width="400" src="https://user-images.githubusercontent.com/94922914/233508815-a208793f-7564-4ee8-9a01-1c487e22ccef.gif">-->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishaaaa8&label=Profile%20views&color=0e75b6&style=flat" alt="Isha" /> </p> -->
 
-- 🔭 I’m currently working on **Full Stack Development**
+- 🔭 I’m currently learning **Machine Learning**
 
 
 - 👯 I’m looking to collaborate on **Full Stack and Machine Learning**
