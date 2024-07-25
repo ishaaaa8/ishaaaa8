@@ -1,15 +1,15 @@
 <div align="center">
 
-</div><h1 align="center">Hi!, I am Isha Singh</h1>
+</div><h1 align="center">Hi!, I'm Isha Singh</h1>
 <h3 align="center">A computer science student who wants to dabble in all CS fields.</h3>
 <img align="right" width="280" src="https://github.com/NebulaTris/NebulaTris/assets/94922914/60503578-ac7d-483d-bf6a-0ba07f9b09d7">
 <!--<img align="right" width="400" src="https://user-images.githubusercontent.com/94922914/233508815-a208793f-7564-4ee8-9a01-1c487e22ccef.gif">-->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishaaaa8&label=Profile%20views&color=0e75b6&style=flat" alt="Isha" /> </p> -->
 
--🔭 I'm a pre final year student pursuing a Bachelor's degree in Computer Science Engineering.
--💡I’m currently learning **Machine Learning**
--🧑🏼‍💻 Let's build the future together, one repository at a time.
-- 👯 I’m looking to collaborate on **Full Stack and Machine Learning**
+-🔭 I'm a pre final year student pursuing a Bachelor's degree in Computer Science Engineering.<br>
+-💡I’m currently learning **Machine Learning**.<br>
+-🧑🏼‍💻 Let's build the future together, one repository at a time.<br>
+- 👯 I’m looking to collaborate on **Full Stack and Machine Learning**.<br>
 
 <br><br>
 
