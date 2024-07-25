@@ -8,7 +8,7 @@
 
 -🔭 I'm a pre final year student pursuing a Bachelor's degree in Computer Science Engineering.<br>
 -💡I’m currently learning **Machine Learning**.<br>
-- 👯 I’m looking to collaborate on **Full Stack and Machine Learning**.<br>
+-👯 I’m looking to collaborate on **Full Stack and Machine Learning**.<br>
 
 
 
