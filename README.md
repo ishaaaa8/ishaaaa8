@@ -79,28 +79,7 @@
  <a href="https://www.linkedin.com/in/isha-singh88/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
 
-###
-  <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ishaaa8/ishaaa8/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
 
-
-<hr/>
-</div>
-<div align="center">
-
-<h1 align="center">Profile Viewers</h1>
-<img width="12" />
-  <img src="https://profile-counter.glitch.me/ishaaa8/count.svg?"  />
-</div>
-
-###
-<br clear="both">
-
-###
 
 
 ###
